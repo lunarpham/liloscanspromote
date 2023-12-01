@@ -24,7 +24,7 @@ export default function Home() {
       <div className='flex flex-row flex-wrap items-center text-start'>
         <Image src='/avatar.jpg' width={200} height={200} alt='avatar' className='rounded-full m-3'></Image>
         <div className='flex-col m-5'>
-          <h1 className='text-4xl font-bold m-1'>Lilo Translation</h1>
+          <h1 className='text-4xl font-bold'>Lilo Translation</h1>
           <h5 className='text-gray-400'><a href="https://www.facebook.com/LiloTranslation" target='blank'>@LiloTranslation</a> | <a href="https://www.facebook.com/LiloScans" target='blank'>@LiloScans</a></h5>
           <p className='my-4'>Low-tier Scanlation Group được lập nên <br></br> bởi đám tôn thờ Nakano Nino chứ không vì gì hết.</p>
         </div>
